@@ -1,0 +1,10 @@
+index.html
+/imagens/
+   chocolate_branco.jpg
+   chocolate_blend.jpg
+   cenoura_branco.jpg
+   cenoura_blend.jpg
+   laranja_branco.jpg
+   laranja_blend.jpg
+   maca_branco.jpg
+   maca_blend.jpg
