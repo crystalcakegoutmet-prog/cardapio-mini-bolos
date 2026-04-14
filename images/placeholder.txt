@@ -1,5 +1,5 @@
 index.html
-/imagens/
+/images/
    chocolate_branco.jpg
    chocolate_blend.jpg
    cenoura_branco.jpg
