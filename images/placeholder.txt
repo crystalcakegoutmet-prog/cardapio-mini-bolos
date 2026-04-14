@@ -8,3 +8,4 @@ index.html
    laranja_blend.jpg
    maca_branco.jpg
    maca_blend.jpg
+   capa.png
