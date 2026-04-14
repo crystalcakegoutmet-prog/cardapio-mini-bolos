@@ -9,3 +9,4 @@ index.html
    maca_branco.jpg
    maca_blend.jpg
    capa.png
+   favicon.png
